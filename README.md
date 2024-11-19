@@ -5,12 +5,12 @@
 - 📫 How to reach me: juliapicinini.2020@gmail.com
 - 😄 Pronouns: she/her
 
-  <a href="https://github.com/jupicinink/github-readme-stats">
+   <a href="https://github.com/jupicinink/github-readme-stats">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jupicinink" />
    </a>
    <a href="https://github.com/jupicinink/convoychat">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jupicinink&layout=compact&langs_count=8&card_width=120" />
-  </a>
+   </a>
     <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
