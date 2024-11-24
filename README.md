@@ -1,6 +1,5 @@
 ## Hi 👋
 
-- 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning React.js and Python 
 - 📫 How to reach me: juliapicinini.2020@gmail.com
 - 😄 Pronouns: she/her
