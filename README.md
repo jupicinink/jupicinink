@@ -6,8 +6,6 @@
  Reach me at: **juliapicinini.2020@gmail.com**  
  Pronouns: **she/her**
 
-Let's connect, collaborate, and code something awesome! 🚀
-
 ---
 
 ### 🚀 Technologies & Tools
