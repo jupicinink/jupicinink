@@ -1,8 +1,6 @@
 ## Hey there! 👋 I'm Julia
-
- Passionate about tech, creativity, and continuous learning.  
- Currently diving deeper into **React.js** and **Python**.  
- I love building smart solutions and turning ideas into code.  
+  
+ Currently diving deeper into **React.js** and **Java**.  
  Reach me at: **juliapicinini.2020@gmail.com**  
  Pronouns: **she/her**
 
