@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Julia
   
- Currently diving deeper into **React.js** and **Java**.  
- Reach me at: **juliapicinini.2020@gmail.com**  
+ Currently diving deeper into **Java**.  
+ Reach me at: **juliapicinini.2020@gmail.com** 
  Pronouns: **she/her**
 
 ---
