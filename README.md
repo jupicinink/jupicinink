@@ -1,7 +1,8 @@
-## Hey there! 👋 I'm Julia
+## Hey there!  I'm Julia
   
  Currently diving deeper into **Java**.  
  Reach me at: **juliapicinini.2020@gmail.com** 
+ 
  Pronouns: **she/her**
 
 ---
@@ -23,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jupicinink&theme=github_dark" alt="Top languages by repo badge"/>
@@ -33,7 +34,7 @@
 
 ---
 
-### 🌐 Let's connect!
+###  Let's connect!
 
 <div>
   <a href="https://instagram.com/ju_picinink" target="_blank">
