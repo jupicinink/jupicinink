@@ -24,16 +24,6 @@
 
 ---
 
-###  GitHub Stats
-
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jupicinink&theme=github_dark" alt="Top languages by repo badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jupicinink&theme=github_dark" alt="Top languages by commit badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jupicinink&theme=github_dark" alt="Profile details badge"/>
-</div>
-
----
-
 ###  Let's connect!
 
 <div>
