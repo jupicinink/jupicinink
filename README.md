@@ -29,10 +29,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jupicinink&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupicinink&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
+  <img src="https://streak-stats.demolab.com?user=jupicinink&theme=tokyonight&hide_border=true" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jupicinink&theme=tokyonight" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jupicinink&theme=tokyo-night&hide_border=true" />
+
+</div>
 ---
 
 ## 🌐 Let's connect
