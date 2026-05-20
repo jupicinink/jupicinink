@@ -41,6 +41,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jupicinink&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+---
+
+## 🧠 Currently Learning
+
+- ☕ Java (Spring Boot, APIs REST)
+- 🗄️ Databases (PostgreSQL & MySQL)
+- 🌐 Frontend with React
+- 🧩 Backend architecture
+
 ---
 
 ## 🌐 Let's connect
